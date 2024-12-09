@@ -1,0 +1,10 @@
+npm init -y
+npm install express nodemon mysql cors
+
+cd api
+npm start
+
+-abre um novo terminal-
+
+cd frontend
+npm start 
